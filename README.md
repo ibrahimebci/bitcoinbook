@@ -1,13 +1,8 @@
 # Mastering Bitcoin
-
 Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin.
-
 This repository contains the complete [first edition, second print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/Edition1Print2), published in December 2014, and the complete [second edition, third print](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print3), published in March 2018, as published by O'Reilly Media in paperback and ebook formats.
-
 # Issues, Errors, Comments, Contributions
-
 To contribute to this book, see [CONTRIBUTING.md](CONTRIBUTING.md). All contributions must be your original work and contributed under a public domain (CC0), or attribution (CC-BY) license. You must include your own attribution in the pull request, as an edit to the github_contrib.asciidoc file. 
-
 If you know how to make a pull request to contribute a fix, please write the correction and use a pull request to submit it for consideration against the [develop branch](https://github.com/bitcoinbook/bitcoinbook/tree/develop). If you are making several changes, please use a separate commit for each to make it easier to cherry-pick or resolve conflicts. Otherwise, please submit an issue, explaining the error or comment. If you would like to contribute extensive changes or new material, please coordinate with the author first; contact information can be found on his website: https://aantonop.com/
 
 # Reading this book
